@@ -1,4 +1,4 @@
-# Demo
+# Demo of a world time app
 
 A new Flutter project.
 
